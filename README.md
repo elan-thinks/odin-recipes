@@ -1,7 +1,5 @@
 # odin-recipes
 
-That’s exciting! 🎉 Here’s a **cute and simple README** for your first Odin Project “Recipes” website. It’s beginner-friendly, clean, and has a cozy, welcoming feel to it:
-
 
 🍳 Odin Recipes
 
